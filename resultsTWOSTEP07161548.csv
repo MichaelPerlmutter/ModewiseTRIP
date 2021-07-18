@@ -1,0 +1,5 @@
+,n,r,mode,target_dim,percent_recovered,avg # iters,avg time,intermediate dimension
+0,5,3,TWOSTEP,144,0,1000,inf,17
+1,5,3,TWOSTEP,144,0,1000,inf,16
+2,5,3,TWOSTEP,144,0,1000,inf,15
+3,5,3,TWOSTEP,144,0,1000,inf,14
