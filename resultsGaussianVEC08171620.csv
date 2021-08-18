@@ -1,0 +1,4 @@
+,n,r,mode,target_dim,percent_recovered,avg # iters,avg time,intermediate dimension
+0,10,3,VEC,676,77.0,457.8831168831169,14.275088472436968,NA
+1,10,3,VEC,576,46.0,538.6739130434783,15.65212237527189,NA
+2,10,3,VEC,484,10.0,604.4,17.64689948540181,NA
