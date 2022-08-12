@@ -11,7 +11,8 @@ python run_mw_trial.py "40" "4" "3,5" "300" "1024" "10" "TWOSTEP" "Fourier"
 Figures can be preproduced using the notebook.
 
 Here were the packages used to run the revised experiments
-# Name                    Version                   Build  
+
+Name                    Version                   Build  
 numpy                     1.22.3          py310hfa59a62_0
 pandas                    1.4.3           py310h6a678d5_0
 python                    3.10.4               h12debd9_0
